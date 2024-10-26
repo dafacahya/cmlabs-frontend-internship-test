@@ -30,27 +30,39 @@ Pastikan Anda telah menginstal perangkat berikut di sistem Anda:
 ## Menjalankan Proyek
 
 Untuk menjalankan proyek dalam mode pengembangan, gunakan perintah berikut:
+```
 npm run dev
+```
 atau jika menggunakan yarn:
+```
 yarn dev
+```
 
 Setelah perintah ini dijalankan, aplikasi akan berjalan di `http://localhost:5173` secara default. Anda bisa mengaksesnya di browser Anda.
 
 ## Build untuk Produksi
 
 Untuk membuat build produksi dari aplikasi, gunakan:
+```
 npm run build
+```
 atau jika menggunakan yarn:
+```
 yarn build
+```
 
 Build hasilnya akan disimpan di folder `dist`. Anda dapat menggunakan file ini untuk di-deploy ke server produksi.
 
 ## Menjalankan Preview Build
 
 Setelah build, Anda bisa memeriksa hasilnya dengan menjalankan:
+```
 npm run preview
+```
 atau jika menggunakan yarn:
+```
 yarn preview
+```
 
 
 ## Struktur Direktori
