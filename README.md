@@ -11,15 +11,21 @@ Pastikan Anda telah menginstal perangkat berikut di sistem Anda:
 ## Instalasi
 
 1. Clone repositori ini ke komputer Anda:
+   ```
    git clone https://github.com/dafacahya/cmlabs-frontend-internship-test.git
-
+   ```
 2. Masuk ke direktori proyek:
+   ```
    cd cmlabs-frontend-internship-test
-
+   ```
 3. Install dependencies menggunakan npm atau yarn:
+   ```
    npm instal
+   ```
    atau jika menggunakan yarn:
+   ```
    yarn
+   ```
 
 ## Menjalankan Proyek
 
