@@ -50,6 +50,7 @@ yarn preview
 ## Struktur Direktori
 
 Berikut adalah struktur direktori dasar untuk proyek ini:
+```
 cmlabs-frontend-internship-test/
 ├── src/                # Direktori utama untuk kode sumber aplikasi
 │   ├── assets/         # Folder untuk aset statis (gambar, ikon, dll)
@@ -61,6 +62,6 @@ cmlabs-frontend-internship-test/
 ├── .gitignore          # File untuk mengabaikan file tertentu di git
 ├── package.json        # Berisi dependencies dan script
 └── vite.config.js      # Konfigurasi untuk Vite
-
+```
 ## Lisensi
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
